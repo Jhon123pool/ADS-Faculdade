@@ -1,8 +1,8 @@
 package iap.lab2conversaotemp;
 import java.util.Scanner;
 import java.util.Locale; /* Primeiro importamos as ferramentas Scanner (que lê os
-                           * dados inseridos pelo teclado) e Locale (que reconhece
-                           * números com casas decimais). */
+                          * dados inseridos pelo teclado) e Locale (que reconhece
+                          * números com casas decimais). */
 
 public class Lab2ConversaoTemp {
     public static void main(String[] args) {
@@ -18,6 +18,5 @@ public class Lab2ConversaoTemp {
         System.out.printf("Temperatura em Celsius: %.2f", celsius);
         /* Como último comando, o programa exibe o resultado do cálculo que definimos
          * na variável "celsius". */
-        }
     }
 }
