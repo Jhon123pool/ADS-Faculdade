@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Lab4PNTernario {
     public static void main(String[] args) {
+        
         // Cria um novo objeto scanner com o nome 'entrada'.
         Scanner entrada = new Scanner(System.in);
 
