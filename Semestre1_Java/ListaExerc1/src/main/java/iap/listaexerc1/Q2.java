@@ -9,7 +9,10 @@ import java.util.Locale;
 public class Q2 {
     public static void main(String[] args) {
 
-        // Cria um novo objeto Scanner chamado 'entrada'.
+        /** 
+         * Cria um novo objeto Scanner chamado 'entrada' e configura o Locale pro padrão americano
+         * que reconhece o ponto (.) como símbolo de separação das casas decimais. 
+         */
         Scanner entrada = new Scanner(System.in).useLocale(Locale.US);
 
         // Pede uma nota ao usuário e guarda a resposta dele na variável 'notaa'. 
