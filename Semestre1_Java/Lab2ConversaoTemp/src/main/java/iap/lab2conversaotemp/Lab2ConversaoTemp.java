@@ -22,7 +22,7 @@ public class Lab2ConversaoTemp {
          * Define uma variável para armazenar o valor digitado pelo usuário chamada 'fahrenheit' e 
          * no comando seguinte executa o cálculo de conversão para Celsius e guarda o resultado na 
          * variável 'celsius'. 
-         * */
+         */
         double fahrenheit = entrada.nextDouble (); 
         double celsius = (5.0/9.0) * (fahrenheit - 32);
 
