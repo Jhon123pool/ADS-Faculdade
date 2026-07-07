@@ -1,9 +1,9 @@
-package iap.lab8vetoresinvertidos;
+package iap.lab9vetoresinvertidos;
 
 // Importa a classe Random, que gera números aleatórios.
 import java.util.Random;
 
-public class Lab8VetoresInvertidos {
+public class Lab9VetoresInvertidos {
     public static void main(String[] args) {
 
         // Cria um objeto Random chamado 'rand'.
